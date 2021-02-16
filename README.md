@@ -11,10 +11,8 @@
     
 ## Telas do projeto
 <p align="center">
-    <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://github.com/gabrielcs04/Happy/blob/master/screenshots/img001.PNG" width="40%">
-        <img src="https://github.com/gabrielcs04/Happy/blob/master/screenshots/img002.PNG" width="40%">
-        <img src="https://github.com/gabrielcs04/Happy/blob/master/screenshots/img003.PNG" width="40%">
-        <img src="https://github.com/gabrielcs04/Happy/blob/master/screenshots/img004.PNG" width="40%">
-    </div>
+    <img src="https://github.com/gabrielcs04/Happy/blob/master/screenshots/img001.PNG">
+    <img src="https://github.com/gabrielcs04/Happy/blob/master/screenshots/img002.PNG">
+    <img src="https://github.com/gabrielcs04/Happy/blob/master/screenshots/img003.PNG">
+    <img src="https://github.com/gabrielcs04/Happy/blob/master/screenshots/img004.PNG">
 </p>
